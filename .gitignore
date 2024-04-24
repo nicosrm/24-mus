@@ -1,0 +1,9 @@
+prof/
+
+.venv/
+*.pdf
+
+.idea/
+.vscode/
+
+.DS_Store
